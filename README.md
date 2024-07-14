@@ -5,9 +5,13 @@ Zee-care is a web-based hospital management system built with React and Redux, a
 Features:-
 
  >Patient appointment booking
+
  >Doctor schedule management
+
  >User-friendly interface
+
  >State management with Redux
+
 
 Technologies Used:-
   >React
